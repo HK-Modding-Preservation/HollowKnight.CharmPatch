@@ -69,6 +69,12 @@ namespace CharmPatch
                     value => SharedData.globalSettings.outerShellOn = Convert.ToBoolean(value),
                     () => Convert.ToInt32(SharedData.globalSettings.outerShellOn)));
 
+            menu.AddElement(new HorizontalOption("Allow Free Charms",
+                    "Charms that cost 0 notches can be equipped even if all notches are full",
+                    MenuValues(),
+                    value => SharedData.globalSettings.allowFreeCharmsOn = Convert.ToBoolean(value),
+                    () => Convert.ToInt32(SharedData.globalSettings.allowFreeCharmsOn)));
+
             // The sub-menus have to be populated retroactively
             menu.AddElement(Blueprints.NavigateToMenu("Grubberfly's Elegy",
                     "",

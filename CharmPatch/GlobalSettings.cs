@@ -7,6 +7,7 @@
         public bool jonisKindnessOn = true;
         public bool mercifulMelodyOn = true;
         public bool outerShellOn = true;
+        public bool allowFreeCharmsOn = true;
 
         public bool grubberflysReachOn = true;
         public bool jonisElegyOn = true;

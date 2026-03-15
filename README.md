@@ -1,64 +1,93 @@
 # Charm Patch
+This is a collection of small changes that I think 
+improve the balance of certain charms in the game, 
+each of which can be toggled from the menu.
 
-This is a collection of small changes that I think improve the balance of certain charms in the game, each of which can be toggled from the menu.
+WARNING - Any changes you make to settings in the menu
+won't take effect until you've saved at a bench
 
-WARNING - Any changes you make to settings in the menu won't take effect until you've saved at a bench.
+Berserker's Fury - Fury of the Fallen has a chance 
+while active to negate damage taken
 
-Berserker's Fury - Fury of the Fallen has a chance while active to negate damage taken
+Dark Dashmaster - Dashmaster reduces the cooldown of 
+Shadow Dash in addition to regular Dash
 
-Dark Dashmaster - Dashmaster reduces the cooldown of Shadow Dash in addition to regular Dash
+Joni's Kindness - Joni's Blessing gives more Lifeblood
+Masks
 
-Joni's Kindness - Joni's Blessing gives more Lifeblood Masks
+Merciful Melody - Carefree Melody has a chance to heal
+when triggered
 
-Merciful Melody - Carefree Melody has a chance to heal when triggered
+Outer Shell - Baldur Shell absorbs more attacks before
+breaking
 
-Outer Shell - Baldur Shell absorbs more attacks before breaking
+Allow Free Charms - Charms with a cost of 0 notches 
+can be equipped even if the player's notches are full
+or overcharmed
 
 ## Grubberfly's Elegy
-Grubberfly's Reach - Longnail and Mark of Pride increase the range of Grubberfly's Elegy
+Grubberfly's Reach - Longnail and Mark of Pride 
+increase the range of Grubberfly's Elegy
 
-Joni's Elegy - Grubberfly's Elegy always triggers when the player is at full health, even if they took damage while equipped with Joni's Blessing
+Joni's Elegy - Grubberfly's Elegy always triggers when
+the player is at full health, even if they took damage
+while equipped with Joni's Blessing
 
 ## Nail Arts
-Critical Blow - Heavy Blow increases damage dealt by Nail Arts
+Critical Blow - Heavy Blow increases damage dealt by 
+Nail Arts
 
-Mantis Arts - Longnail and Mark of Pride increase the range of Nail Arts
+Mantis Arts - Longnail and Mark of Pride increase the 
+range of Nail Arts
 
-Mighty Arts - Fragile/Unbreakable Strength increases the damage dealt by Nail Arts
+Mighty Arts - Fragile/Unbreakable Strength increases 
+the damage dealt by Nail Arts
 
-Quick Arts - Quick Slash reduces the charge time of Nail Arts
+Quick Arts - Quick Slash reduces the charge time of 
+Nail Arts
 
 ## Integrations with other mods
+Blue Hive - TheMathGeek314's Unlimited Hiveblood mod 
+heals Lifeblood Masks given by Joni's Blessing in 
+addition to regular Masks
 
-Blue Hive - TheMathGeek314's Unlimited Hiveblood mod heals Lifeblood Masks given by Joni's Blessing in addition to regular ones.
+Charm Changer - Use settings from Exempt-Medic's Charm
+Changer mod
 
-Charm Changer - Whether or not Charm Patch uses settings from Exempt-Medic's Charm Changer mod.
-
-Mark of Purity Restored - Compatibility patch that makes it so that Charm Changer is compatible 
+Mark of Purity Restored - Charm Changer is compatible 
 with Pale Court's Mark of Purity.
 
-Friendly Aspid - Makes it so that the Aspid Aspect charm from Nickc01's Ancient Aspid mod doesn't damage the player.
+Friendly Aspid - The Aspid Aspect charm from Nickc01's
+Ancient Aspid mod doesn't damage the player.
 
 ## Recommended Charm Changer Settings
-
 Set Flukenest cost to 2
 
 Set Dreamshield cost to 2
 
 Set Grimmchild Attack Cooldown to 1.33
 
-Instead of using Joni's Kindness, you can set Joni's Blessing Health Increase to 60%
+Instead of using Joni's Kindness, you can set Joni's 
+Blessing Health Increase to 60%
 
-Instead of using Merciful Melody, you can also increase Carefree Melody's block chance by 5% at all levels
+Instead of using Merciful Melody, you can also 
+increase Carefree Melody's block chance by 5% at all 
+levels
 
 ## Special Thanks To
 timbobaggins for the idea behind Critical Blow
 
-Nengyi-Jonathan-Jiang, toffee05, ForkinIsaac and Evan Mitchell for testing and feedback
+Nengyi-Jonathan-Jiang, toffee05, ForkinIsaac and Evan 
+Mitchell for testing and feedback
 
-The Pale Court community for their phenomenal work and for their permission to use MOP's code to write the Restored patch.
+The Pale Court community for their phenomenal work and
+for their permission to use MOP's code to write the 
+MOP Restored patch.
 
 ## Patch Notes
+1.8.0.0
+- New patch: Allow Free Charms
+
 1.7.0.1
 - Disabled logging for Grubberfly's Reach
 

@@ -55,6 +55,7 @@ namespace CharmPatch
             new JonisKindness(),
             new OuterShell(),
             new MercifulMelody(),
+            new AllowFreeCharms(),
 
             new GrubberflysReach(),
             new JonisElegy(),
